@@ -1,5 +1,13 @@
 # Customer Churn Prediction
 
+> Machine Learning based customer churn prediction and risk analysis system.
+
+## 🚀 Live Demo
+
+👉 [Try the Customer Churn Prediction App](https://customer-churn-ml-0.streamlit.app/)
+
+# Customer Churn Prediction
+
 A machine learning project for predicting customer churn probability, identifying important churn factors, and segmenting customers according to their churn risk.
 
 The project focuses not only on prediction performance but also on transforming machine learning results into actionable customer retention insights.
